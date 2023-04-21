@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sunRay004
+- 👋 Hi, I’m sunRay
 - 👀 I’m not interesting
 - 🌱 I’m alive
 - 💞️ I’m not looking to colab
