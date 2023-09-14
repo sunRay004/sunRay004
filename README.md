@@ -1,8 +1,4 @@
-- 👋 Hand
-- 👀 Eyes
-- 🌱 Plant
-- 💞️ Heart
-- 📫 Mail
+// TODO: Insert interesting stuff.
 
 <!---
 sunRay004/sunRay004 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
