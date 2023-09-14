@@ -1,8 +1,8 @@
-- 👋 Hi, I’m sunRay
-- 👀 I’m not interesting
-- 🌱 I’m alive
-- 💞️ I’m not looking to colab
-- 📫 Don't reach me
+- 👋 Hand
+- 👀 Eyes
+- 🌱 Plant
+- 💞️ Heart
+- 📫 Mail
 
 <!---
 sunRay004/sunRay004 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
